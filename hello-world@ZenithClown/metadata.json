@@ -1,0 +1,6 @@
+{
+    "uuid" : "hello-world@ZenithClown",
+    "name" : "hello-world",
+    "description" : "A hello world cinnamon desklet application.",
+    "pervent-decorations" : "true"
+}
